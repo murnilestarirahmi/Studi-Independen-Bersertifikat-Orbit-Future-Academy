@@ -1,1 +1,1 @@
-Berikut merupakan dokumentasi latihan Machine Learning mengunakan Python.
+Berikut merupakan dokumentasi latihan membuat model Machine Learning dengan beberaoa Algoritma mengunakan Python.
